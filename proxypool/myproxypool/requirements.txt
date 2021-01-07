@@ -1,5 +1,5 @@
 Flask==1.1.1
 requests==2.22.0
 redis==3.5.3
-lxml==4.5.0
+lxml==4.6.2
 aiohttp==3.6.2
